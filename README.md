@@ -1,1 +1,3 @@
 # latihan
+
+tambah dari github
